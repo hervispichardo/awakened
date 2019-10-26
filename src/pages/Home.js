@@ -100,7 +100,7 @@ const Home = () => {
       buttons={[{
           text: 'Eliminar',
           role: 'destructive',
-          icon: 'trash',
+          icon: trash,
           handler: () => {
             console.log('Delete clicked');
             onDelete()
