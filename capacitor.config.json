@@ -1,0 +1,7 @@
+{
+  "appId": "com.awakenedtraker.app",
+  "appName": "Awakened traker",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build"
+}

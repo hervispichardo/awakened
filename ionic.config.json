@@ -1,5 +1,7 @@
 {
   "name": "awakened",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
